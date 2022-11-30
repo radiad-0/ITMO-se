@@ -1,0 +1,3 @@
+/home/aidar/1/ITMO-se/programming-languages/test/cmake-build-debug/CMakeFiles/test.dir
+/home/aidar/1/ITMO-se/programming-languages/test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aidar/1/ITMO-se/programming-languages/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

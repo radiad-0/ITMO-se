@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/aidar/1/ITMO-se/programming-languages/lab3/cmake-build-debug",
+  "command": "/usr/bin/cc -I/home/aidar/1/ITMO-se/programming-languages/lab3/solution/src -I/home/aidar/1/ITMO-se/programming-languages/lab3/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o solution/CMakeFiles/image-transformer.dir/src/main.c.o -c /home/aidar/1/ITMO-se/programming-languages/lab3/solution/src/main.c",
+  "file": "/home/aidar/1/ITMO-se/programming-languages/lab3/solution/src/main.c"
+},
+{
+  "directory": "/home/aidar/1/ITMO-se/programming-languages/lab3/cmake-build-debug",
+  "command": "/usr/bin/cc -I/home/aidar/1/ITMO-se/programming-languages/lab3/tester/src -I/home/aidar/1/ITMO-se/programming-languages/lab3/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o tester/CMakeFiles/image-matcher.dir/src/bmp.c.o -c /home/aidar/1/ITMO-se/programming-languages/lab3/tester/src/bmp.c",
+  "file": "/home/aidar/1/ITMO-se/programming-languages/lab3/tester/src/bmp.c"
+},
+{
+  "directory": "/home/aidar/1/ITMO-se/programming-languages/lab3/cmake-build-debug",
+  "command": "/usr/bin/cc -I/home/aidar/1/ITMO-se/programming-languages/lab3/tester/src -I/home/aidar/1/ITMO-se/programming-languages/lab3/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o tester/CMakeFiles/image-matcher.dir/src/file_cmp.c.o -c /home/aidar/1/ITMO-se/programming-languages/lab3/tester/src/file_cmp.c",
+  "file": "/home/aidar/1/ITMO-se/programming-languages/lab3/tester/src/file_cmp.c"
+},
+{
+  "directory": "/home/aidar/1/ITMO-se/programming-languages/lab3/cmake-build-debug",
+  "command": "/usr/bin/cc -I/home/aidar/1/ITMO-se/programming-languages/lab3/tester/src -I/home/aidar/1/ITMO-se/programming-languages/lab3/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o tester/CMakeFiles/image-matcher.dir/src/main.c.o -c /home/aidar/1/ITMO-se/programming-languages/lab3/tester/src/main.c",
+  "file": "/home/aidar/1/ITMO-se/programming-languages/lab3/tester/src/main.c"
+},
+{
+  "directory": "/home/aidar/1/ITMO-se/programming-languages/lab3/cmake-build-debug",
+  "command": "/usr/bin/cc -I/home/aidar/1/ITMO-se/programming-languages/lab3/tester/src -I/home/aidar/1/ITMO-se/programming-languages/lab3/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -g -o tester/CMakeFiles/image-matcher.dir/src/util.c.o -c /home/aidar/1/ITMO-se/programming-languages/lab3/tester/src/util.c",
+  "file": "/home/aidar/1/ITMO-se/programming-languages/lab3/tester/src/util.c"
+}
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<musicBands>
+	<musicBand name="britPopBand" numberOfParticipants="6" genre="BRIT_POP">
+		<coordinates x="20" y="120"/>
+		<bestAlbum name="bestBritPopAlbum" length="17"/>
+	</musicBand>
+	<musicBand name="jazzBand" numberOfParticipants="4" genre="JAZZ">
+		<coordinates x="52" y="550"/>
+		<bestAlbum name="bestJazzAlbum" length="20"/>
+	</musicBand>
+	<musicBand name="rockBand" numberOfParticipants="5" genre="ROCK">
+		<coordinates x="130" y="70"/>
+		<bestAlbum name="bestRockAlbum" length="14"/>
+	</musicBand>
+</musicBands>

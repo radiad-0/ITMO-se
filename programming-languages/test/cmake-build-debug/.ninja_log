@@ -1,0 +1,5 @@
+# ninja log v5
+0	54	1668777793934922418	CMakeFiles/lab3.dir/main.c.o	99671c708ab5bb4b
+0	28	1668777827364738973	CMakeFiles/test.dir/main.c.o	3353f2c9f4138f6e
+0	4	0	/home/aidar/1/ITMO-se/programming-languages/test/cmake-build-debug/CMakeFiles/cmake.verify_globs	22bb70afe687696c
+0	54	1668778001123785480	CMakeFiles/test.dir/main.c.o	3353f2c9f4138f6e

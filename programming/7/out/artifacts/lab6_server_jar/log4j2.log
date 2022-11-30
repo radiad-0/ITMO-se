@@ -1,0 +1,29 @@
+2022-05-31 12:03:57,747 ERROR l.Server [main]: Ошибка! проблемы с соединением: не удалось связать канал с адресом
+2022-05-31 12:04:04,593 ERROR l.Server [main]: Ошибка! проблемы с соединением: не удалось связать канал с адресом
+2022-05-31 12:05:00,846 ERROR l.Server [main]: Ошибка! проблемы с соединением: не удалось связать канал с адресом
+2022-05-31 12:05:18,686 INFO l.Server [main]: _________Сервер___начал___работу_________
+2022-05-31 12:05:18,691 DEBUG l.t.s.ServerInputManager [main]: СПИСОК ЗАПРОСОВ: []
+2022-05-31 12:05:47,599 DEBUG l.t.s.ServerInputManager [main]: НОВЫЙ ЗАПРОС: RequestBox{data=ClientRequest{name='help', arguments=[], element=null, id=1}, address=/127.0.0.1:53280}
+2022-05-31 12:05:47,603 DEBUG l.t.s.ServerOutputManager [main]: ServerRequest{message='add {element} : добавить новый элемент в коллекцию
+count_less_than_genre genre : вывести количество элементов, значение поля genre которых меньше заданного
+execute_script file_name : считать и исполнить скрипт из указанного файла. В скрипте содержатся команды в таком же виде, в котором их вводит пользователь в интерактивном режиме
+вывести в стандартный поток вывода все элементы коллекции в строковом представлении
+clear : очистить коллекцию
+update id {element} : обновить значение элемента коллекции, id которого равен заданному
+remove_by_id id : удалить элемент из коллекции по его id
+history : вывести последние 14 команд (без их аргументов)
+remove_greater {element} : удалить из коллекции все элементы, превышающие заданный
+remove_lower {element} : удалить из коллекции все элементы, меньшие, чем заданный
+exit : завершить работу клиентского приложения
+min_by_id : вывести любой объект из коллекции, значение поля id которого является минимальным
+filter_starts_with_name name : вывести элементы, значение поля name которых начинается с заданной подстроки
+info : вывести в стандартный поток вывода информацию о коллекции (тип, дата инициализации, количество элементов и т.д.)
+', stopSignal=false, needElement=false, setManualMode=false, setScriptMode=false, scriptFile=null, id=1}
+2022-05-31 12:05:47,610 DEBUG l.t.s.ServerInputManager [main]: СПИСОК ЗАПРОСОВ: []
+2022-05-31 12:05:50,635 DEBUG l.t.s.ServerInputManager [main]: НОВЫЙ ЗАПРОС: RequestBox{data=ClientRequest{name='exit', arguments=[], element=null, id=2}, address=/127.0.0.1:53280}
+2022-05-31 12:05:50,635 INFO l.Server [main]: __________Клиент___завершил___работу__________
+2022-05-31 12:05:50,635 DEBUG l.t.s.ServerOutputManager [main]: ServerRequest{message='', stopSignal=true, needElement=false, setManualMode=false, setScriptMode=false, scriptFile=null, id=2}
+2022-05-31 12:05:50,636 DEBUG l.Server [main]: сохранение коллекции
+2022-05-31 12:05:50,638 DEBUG l.t.s.ServerInputManager [main]: СПИСОК ЗАПРОСОВ: []
+2022-05-31 12:08:43,618 INFO l.t.s.ShutdownHook [Thread-1]: _________Сервер___завершил___работу_________
+2022-05-31 12:08:43,619 DEBUG l.t.s.ShutdownHook [Thread-1]: сохранение коллекции

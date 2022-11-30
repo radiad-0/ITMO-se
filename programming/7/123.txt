@@ -1,0 +1,6 @@
+help
+info
+show
+history
+execute_script 123.txt
+history
