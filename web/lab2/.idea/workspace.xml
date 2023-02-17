@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="lab2:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7087ca4a-89ef-48b1-bc43-e1b2915b240a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/.idea/unit1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-5e864d45b6495c775afc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/CMakeFiles/3.23.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/CMakeFiles/3.23.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/CMakeFiles/unit1.dir/taskC.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/cmake-build-debug/unit1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/taskA.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/taskB.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/taskC.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/taskD.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithms&amp;DS/contest/taskH.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/.idea/lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/lab2_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/lab2_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/radiad/lab2/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/radiad/lab2/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/radiad/lab2/Row.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/radiad/lab2/servlets/AreaCheckServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/radiad/lab2/servlets/ContextListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/radiad/lab2/servlets/ControllerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/image/area.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/image/not_stonks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Дискретка/Курсовая/прога/.idea/прога.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Дискретка/Курсовая/прога/java/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Дискретка/Курсовая/прога/python/.idea/python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../physic/term 3/Лабараторная 3.05.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../physic/term 3/Лабараторная 3.05.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/.gitlab-ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/.gitlab-ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/.idea/assignment-3-image-rotation-master1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/.idea/assignment-3-image-rotation-master1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/.idea/cmake.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/.idea/cmake.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/CMakeSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/CMakeSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/clang-tidy-checks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/clang-tidy-checks.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/cmake-variants.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/cmake-variants.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/common-mistakes.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/common-mistakes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/CLion.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/CLion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/CLion/01-get-from-vcs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/CLion/01-get-from-vcs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/CLion/02-load-cmake-project.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/CLion/02-load-cmake-project.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/CLion/03-choose-configuration.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/CLion/03-choose-configuration.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/Terminal.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/Terminal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/VS/01-vcs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/VS/01-vcs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/VS/02-folder-view.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/VS/02-folder-view.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/VS/03-choose-config.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/VS/03-choose-config.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/VS/04-tests.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/VS/04-tests.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/VSCode.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/VSCode.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/VSCode/01-clone.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/VSCode/01-clone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/VSCode/02-choose-kit.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/VSCode/02-choose-kit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/VSCode/03-choose-config.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/VSCode/03-choose-config.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/Visual Studio.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/docs/Visual Studio.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/compile_flags.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/compile_flags.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/include/file.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/include/file.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/include/image.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/include/image.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/include/image_bmp.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/include/image_bmp.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/include/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/include/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/include/transform_rotate.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/include/transform_rotate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/src/file.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/src/file.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/src/image.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/src/image.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/src/image_bmp.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/src/image_bmp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/src/transform_rotate.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/solution/src/transform_rotate.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/compile_flags.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/compile_flags.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/include/bmp.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/include/bmp.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/include/cmp.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/include/cmp.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/include/common.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/include/common.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/include/dimensions.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/include/dimensions.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/include/file_cmp.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/include/file_cmp.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/include/image.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/include/image.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/include/io.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/include/io.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/src/bmp.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/src/bmp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/src/file_cmp.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/src/file_cmp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/src/util.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/src/util.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/tester.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/tester.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/tests/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/tests/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/tests/1/input.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/tests/1/input.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/tests/1/output_expected.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/tests/1/output_expected.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/tests/2/input.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/tests/2/input.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/tests/2/output_expected.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/tests/2/output_expected.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/tests/3/input.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/tests/3/input.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/tests/3/output_expected.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation-master1/tester/tests/3/output_expected.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/.gitlab-ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/.gitlab-ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/.idea/assignment-3-image-rotation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/.idea/assignment-3-image-rotation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/.idea/cmake.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/.idea/cmake.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/CMakeSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/CMakeSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/clang-tidy-checks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/clang-tidy-checks.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/cmake-variants.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/cmake-variants.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/common-mistakes.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/common-mistakes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/CLion.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/CLion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/CLion/01-get-from-vcs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/CLion/01-get-from-vcs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/CLion/02-load-cmake-project.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/CLion/02-load-cmake-project.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/CLion/03-choose-configuration.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/CLion/03-choose-configuration.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/Terminal.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/Terminal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/VS/01-vcs.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/VS/01-vcs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/VS/02-folder-view.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/VS/02-folder-view.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/VS/03-choose-config.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/VS/03-choose-config.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/VS/04-tests.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/VS/04-tests.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/VSCode.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/VSCode.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/VSCode/01-clone.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/VSCode/01-clone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/VSCode/02-choose-kit.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/VSCode/02-choose-kit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/VSCode/03-choose-config.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/VSCode/03-choose-config.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/Visual Studio.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/docs/Visual Studio.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/solution/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/solution/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/solution/compile_flags.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/solution/compile_flags.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/solution/src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/solution/src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/compile_flags.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/compile_flags.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/include/bmp.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/include/bmp.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/include/cmp.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/include/cmp.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/include/common.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/include/common.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/include/dimensions.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/include/dimensions.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/include/file_cmp.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/include/file_cmp.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/include/image.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/include/image.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/include/io.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/include/io.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/src/bmp.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/src/bmp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/src/file_cmp.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/src/file_cmp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/src/util.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/src/util.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/tester.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/tester.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/tests/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/tests/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/tests/1/input.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/tests/1/input.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/tests/1/output_expected.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/tests/1/output_expected.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/tests/2/input.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/tests/2/input.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/tests/2/output_expected.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/tests/2/output_expected.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/tests/3/input.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/tests/3/input.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/tests/3/output_expected.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/assignment-3-image-rotation/tester/tests/3/output_expected.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/seminar6/3.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/seminar6/3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/seminar6/bad.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/seminar6/bad.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/seminar6/heap-0.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/seminar6/heap-0.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/seminar6/heap-1.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/seminar6/heap-1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/seminar6/test.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/seminar6/test.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/seminar7/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/seminar7/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/seminar7/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/seminar7/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/seminar7/.idea/seminar7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/seminar7/.idea/seminar7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/seminar7/stack-smash.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/seminar7/stack-smash.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/seminar7/tail-rec.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/seminar7/tail-rec.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/stepik/test.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/stepik/test.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/.idea/lab3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/.idea/lab3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b07aa01e0008b1498742.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b07aa01e0008b1498742.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-b945601cd951a1e29ff7.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-b945601cd951a1e29ff7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-cd299940fd9716731acf.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-cd299940fd9716731acf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/reply/index-2022-11-18T13-26-38-0788.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/reply/index-2022-11-18T13-26-38-0788.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/reply/target-test-Debug-3a388e5565fae58523ec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/reply/target-test-Debug-3a388e5565fae58523ec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-8cabd8cda47a6a3892f1.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-8cabd8cda47a6a3892f1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/3.23.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/3.23.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/VerifyGlobs.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/cmake.verify_globs" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/cmake.verify_globs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/lab3.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/lab3.dir/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/test.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CMakeFiles/test.dir/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/compile_commands.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/solution/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/solution/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/tester/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/tester/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/tester/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/cmake-build-debug/tester/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/test.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/test.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming-languages/test/test.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming-languages/test/test.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/out/production/3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/out/production/3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/out/production/3/core/Character.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/out/production/3/core/Character.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/out/production/3/core/Movable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/out/production/3/core/Movable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/out/production/3/core/Move.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/out/production/3/core/Move.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/out/production/3/core/Sound.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/out/production/3/core/Sound.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/out/production/3/core/Soundable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/out/production/3/core/Soundable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/out/production/3/momessageves/DodgeAttack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/out/production/3/momessageves/DodgeAttack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/out/production/3/moves/Attack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/out/production/3/moves/Attack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/out/production/3/moves/Dash.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/out/production/3/moves/Dash.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/out/production/3/moves/FastRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/out/production/3/moves/FastRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/out/production/3/moves/Fly.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/out/production/3/moves/Fly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/out/production/3/moves/FlyUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/out/production/3/moves/FlyUp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/out/production/3/moves/Gallop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/out/production/3/moves/Gallop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/out/production/3/moves/SlowRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/out/production/3/moves/SlowRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/out/production/3/moves/TryingGrab.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/out/production/3/moves/TryingGrab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/src/core/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/src/core/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/src/core/Movable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/src/core/Movable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/src/core/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/src/core/Move.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/src/core/Sound.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/src/core/Sound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/src/core/Soundable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/src/core/Soundable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/src/moves/Attack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/src/moves/Attack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/src/moves/Dash.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/src/moves/Dash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/src/moves/DodgeAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/src/moves/DodgeAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/src/moves/FastRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/src/moves/FastRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/src/moves/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/src/moves/Fly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/src/moves/FlyUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/src/moves/FlyUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/src/moves/Gallop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/src/moves/Gallop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/src/moves/SlowRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/src/moves/SlowRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/3/src/moves/TryingGrab.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/3/src/moves/TryingGrab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/111" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/111" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/123" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/123" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/core/Character$Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/core/Character$Location.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/core/Character.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/core/Character.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/core/Movable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/core/Movable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/core/Move.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/core/Move.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/core/MyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/core/MyException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/core/Sound.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/core/Sound.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/core/Soundable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/core/Soundable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/Attack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/Attack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/CircleAroundSomething.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/CircleAroundSomething.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/Dash.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/Dash.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/DodgeAttack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/DodgeAttack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/FastRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/FastRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/Fly.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/Fly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/FlyUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/FlyUp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/Gallop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/Gallop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/Jump.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/Jump.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/Scream.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/Scream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/SlowRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/SlowRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/Spank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/Spank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/TakeWeapon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/TakeWeapon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/TryingGrab.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/TryingGrab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/Сhase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/out/production/3/moves/Сhase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/core/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/core/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/core/Movable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/core/Movable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/core/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/core/Move.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/core/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/core/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/core/Sound.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/core/Sound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/core/Soundable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/core/Soundable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/moves/Attack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/moves/Attack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/moves/CircleAroundSomething.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/moves/CircleAroundSomething.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/moves/Dash.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/moves/Dash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/moves/DodgeAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/moves/DodgeAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/moves/FastRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/moves/FastRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/moves/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/moves/Fly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/moves/FlyUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/moves/FlyUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/moves/Gallop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/moves/Gallop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/moves/Jump.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/moves/Jump.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/moves/Scream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/moves/Scream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/moves/SlowRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/moves/SlowRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/moves/Spank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/moves/Spank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/moves/TakeWeapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/moves/TakeWeapon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/moves/TryingGrab.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/moves/TryingGrab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/4/src/moves/Сhase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/4/src/moves/Сhase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/123.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/123.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/excepcions/InvalidCommandException.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/excepcions/InvalidCommandException.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/excepcions/InvalidEnterException.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/excepcions/InvalidEnterException.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/excepcions/LessZeroException.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/excepcions/LessZeroException.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/excepcions/NullException.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/excepcions/NullException.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/excepcions/NullOrEmptyException.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/excepcions/NullOrEmptyException.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/excepcions/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/excepcions/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/excepcions/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/excepcions/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/excepcions/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/excepcions/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/items/Album.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/items/Album.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/items/Coordinates.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/items/Coordinates.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/items/MusicBand.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/items/MusicBand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/items/MusicGenre.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/items/MusicGenre.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/items/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/items/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/items/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/items/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/items/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/items/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/overview-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/package-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/serialized-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/tools/Parser.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/tools/Parser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/tools/Program.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/tools/Program.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/tools/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/tools/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/tools/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/tools/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/javaDoc/tools/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/javaDoc/tools/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/out/artifacts/untitled104_jar/lab5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/out/artifacts/untitled104_jar/lab5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/out/artifacts/untitled104_jar/untitled104.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/out/artifacts/untitled104_jar/untitled104.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/excepcions/InvalidCommandException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/excepcions/InvalidCommandException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/excepcions/InvalidEnterException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/excepcions/InvalidEnterException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/excepcions/LessZeroException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/excepcions/LessZeroException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/excepcions/NullException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/excepcions/NullException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/excepcions/NullOrEmptyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/excepcions/NullOrEmptyException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/items/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/items/Album.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/items/Coordinates.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/items/Coordinates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/items/MusicBand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/items/MusicBand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/items/MusicGenre.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/items/MusicGenre.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/tools/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/tools/Parser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/tools/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/out/production/untitled104/tools/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/src.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/src.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/src/excepcions/InvalidCommandException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/src/excepcions/InvalidCommandException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/src/excepcions/InvalidEnterException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/src/excepcions/InvalidEnterException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/src/excepcions/LessZeroException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/src/excepcions/LessZeroException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/src/excepcions/NullException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/src/excepcions/NullException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/src/excepcions/NullOrEmptyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/src/excepcions/NullOrEmptyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/src/items/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/src/items/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/src/items/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/src/items/Coordinates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/src/items/MusicBand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/src/items/MusicBand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/src/items/MusicGenre.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/src/items/MusicGenre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/src/tools/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/src/tools/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/src/tools/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/src/tools/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/testData.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/testData.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5/untitled104.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5/untitled104.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/123.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/123.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/Lab5.2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/Lab5.2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/basic/FileManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/basic/FileManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/basic/InputManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/basic/InputManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/basic/OutputManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/basic/OutputManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/basic/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/basic/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/basic/StopSignal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/basic/StopSignal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/basic/XmlManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/basic/XmlManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/Add.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/Clear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/Clear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/Command.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/CommandParameter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/CommandParameter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/CountLessThanGenre.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/CountLessThanGenre.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/ExecuteScript.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/ExecuteScript.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/Exit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/Exit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/FilterStartsWithName.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/FilterStartsWithName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/Help.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/History.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/History.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/Info.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/Info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/MinById.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/MinById.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/RemoveById.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/RemoveById.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/RemoveGreater.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/RemoveGreater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/RemoveLower.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/RemoveLower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/Show.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/Show.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/Update.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/commands/Update.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/excepcions/ElementWithIdNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/excepcions/ElementWithIdNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/excepcions/EndOfFileException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/excepcions/EndOfFileException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/excepcions/FileNotAccessException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/excepcions/FileNotAccessException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/excepcions/InvalidArgumentException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/excepcions/InvalidArgumentException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/excepcions/InvalidCommandException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/excepcions/InvalidCommandException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/excepcions/InvalidEnterException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/excepcions/InvalidEnterException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/excepcions/LessZeroException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/excepcions/LessZeroException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/excepcions/NullException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/excepcions/NullException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/excepcions/NullOrEmptyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/excepcions/NullOrEmptyException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/items/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/items/Album.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/items/Coordinates.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/items/Coordinates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/items/MusicBand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/items/MusicBand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/items/MusicGenre.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab5.2/items/MusicGenre.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/basic/FileManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/basic/FileManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/basic/InputManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/basic/InputManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/basic/OutputManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/basic/OutputManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/basic/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/basic/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/basic/StopSignal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/basic/StopSignal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/basic/XmlManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/basic/XmlManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/Add.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/Clear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/Clear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/Command.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/CommandParameter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/CommandParameter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/CountLessThanGenre.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/CountLessThanGenre.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/ExecuteScript.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/ExecuteScript.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/Exit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/Exit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/FilterStartsWithName.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/FilterStartsWithName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/Help.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/History.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/History.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/Info.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/Info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/MinById.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/MinById.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/RemoveById.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/RemoveById.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/RemoveGreater.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/RemoveGreater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/RemoveLower.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/RemoveLower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/Show.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/Show.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/Update.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/commands/Update.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/excepcions/ElementWithIdNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/excepcions/ElementWithIdNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/excepcions/EndOfFileException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/excepcions/EndOfFileException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/excepcions/FileNotAccessException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/excepcions/FileNotAccessException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/excepcions/InvalidArgumentException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/excepcions/InvalidArgumentException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/excepcions/InvalidCommandException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/excepcions/InvalidCommandException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/excepcions/InvalidEnterException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/excepcions/InvalidEnterException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/excepcions/LessZeroException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/excepcions/LessZeroException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/excepcions/NullException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/excepcions/NullException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/excepcions/NullOrEmptyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/excepcions/NullOrEmptyException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/items/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/items/Album.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/items/Coordinates.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/items/Coordinates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/items/MusicBand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/items/MusicBand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/items/MusicGenre.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/out/production/Lab6/items/MusicGenre.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/basic/FileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/basic/FileManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/basic/InputManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/basic/InputManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/basic/OutputManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/basic/OutputManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/basic/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/basic/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/basic/StopSignal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/basic/StopSignal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/basic/XmlManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/basic/XmlManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/commands/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/commands/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/commands/Clear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/commands/Clear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/commands/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/commands/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/commands/CommandParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/commands/CommandParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/commands/CountLessThanGenre.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/commands/CountLessThanGenre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/commands/ExecuteScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/commands/ExecuteScript.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/commands/Exit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/commands/Exit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/commands/FilterStartsWithName.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/commands/FilterStartsWithName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/commands/Help.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/commands/Help.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/commands/History.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/commands/History.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/commands/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/commands/Info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/commands/MinById.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/commands/MinById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/commands/RemoveById.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/commands/RemoveById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/commands/RemoveGreater.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/commands/RemoveGreater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/commands/RemoveLower.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/commands/RemoveLower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/commands/Show.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/commands/Show.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/commands/Update.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/commands/Update.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/excepcions/ElementWithIdNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/excepcions/ElementWithIdNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/excepcions/EndOfFileException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/excepcions/EndOfFileException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/excepcions/FileNotAccessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/excepcions/FileNotAccessException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/excepcions/InvalidArgumentException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/excepcions/InvalidArgumentException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/excepcions/InvalidCommandException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/excepcions/InvalidCommandException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/excepcions/InvalidEnterException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/excepcions/InvalidEnterException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/excepcions/LessZeroException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/excepcions/LessZeroException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/excepcions/NullException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/excepcions/NullException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/excepcions/NullOrEmptyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/excepcions/NullOrEmptyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/items/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/items/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/items/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/items/Coordinates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/items/MusicBand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/items/MusicBand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/src/items/MusicGenre.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/src/items/MusicGenre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/5_update/testData.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/5_update/testData.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/123.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/123.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/lab6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/log4j2.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/log4j2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/logs/app-05-10-2022-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/logs/app-05-10-2022-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/Clear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/Clear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/CountLessThanGenre.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/CountLessThanGenre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/ExecuteScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/ExecuteScript.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/Exit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/Exit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/FilterStartsWithName.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/FilterStartsWithName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/Help.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/Help.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/History.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/History.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/Info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/MinById.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/MinById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/RemoveById.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/RemoveById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/RemoveGreater.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/RemoveGreater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/RemoveLower.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/RemoveLower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/Show.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/Show.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/Update.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/commands/Update.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/ElementWithIdNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/ElementWithIdNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/EndOfFileException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/EndOfFileException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/FileNotAccessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/FileNotAccessException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/InvalidArgumentException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/InvalidArgumentException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/InvalidCommandException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/InvalidCommandException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/InvalidConnectException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/InvalidConnectException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/InvalidRequestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/InvalidRequestException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/LessZeroException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/LessZeroException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/NullException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/NullException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/NullOrEmptyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/NullOrEmptyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/RecursiveCommandExecutionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/excepcions/RecursiveCommandExecutionException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/items/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/items/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/items/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/items/Coordinates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/items/MusicBand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/items/MusicBand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/items/MusicGenre.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/items/MusicGenre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/ClientRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/ClientRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/CommandParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/CommandParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/OutputManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/OutputManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/RequestBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/RequestBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/Serializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/Serializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/ServerRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/ServerRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/StopSignal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/StopSignal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/UDPConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/UDPConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/clientIOManagers/ClientInputManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/clientIOManagers/ClientInputManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/clientIOManagers/ClientOutputManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/clientIOManagers/ClientOutputManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/clientIOManagers/ShutdownHook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/clientIOManagers/ShutdownHook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/serverIOManagers/ConsoleThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/serverIOManagers/ConsoleThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/serverIOManagers/FileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/serverIOManagers/FileManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/serverIOManagers/ServerInputManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/serverIOManagers/ServerInputManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/serverIOManagers/ServerOutputManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/serverIOManagers/ServerOutputManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/serverIOManagers/ShutdownHook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/serverIOManagers/ShutdownHook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/serverIOManagers/XmlManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/java/lab6/tools/serverIOManagers/XmlManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/Add.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/Clear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/Clear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/Command.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/CountLessThanGenre.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/CountLessThanGenre.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/ExecuteScript.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/ExecuteScript.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/Exit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/Exit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/FilterStartsWithName.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/FilterStartsWithName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/Help.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/History.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/History.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/Info.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/Info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/MinById.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/MinById.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/RemoveById.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/RemoveById.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/RemoveGreater.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/RemoveGreater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/RemoveLower.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/RemoveLower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/Show.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/Show.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/Update.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/commands/Update.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/ElementWithIdNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/ElementWithIdNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/EndOfFileException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/EndOfFileException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/FileNotAccessException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/FileNotAccessException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/InvalidArgumentException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/InvalidArgumentException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/InvalidCommandException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/InvalidCommandException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/InvalidConnectException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/InvalidConnectException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/LessZeroException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/LessZeroException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/MyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/MyException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/NullException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/NullException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/NullOrEmptyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/NullOrEmptyException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/RecursiveCommandExecutionException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/excepcions/RecursiveCommandExecutionException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/items/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/items/Album.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/items/Coordinates.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/items/Coordinates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/items/MusicBand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/items/MusicBand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/items/MusicGenre.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/items/MusicGenre.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/CommandParameters.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/CommandParameters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/Serializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/Serializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/ServerRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/ServerRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/StopSignal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/StopSignal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/UDPConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/UDPConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/clientIOManagers/ClientInputManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/clientIOManagers/ClientInputManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/clientIOManagers/ClientOutputManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/clientIOManagers/ClientOutputManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/serverIOManagers/FileManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/serverIOManagers/FileManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/serverIOManagers/ServerInputManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/serverIOManagers/ServerInputManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/serverIOManagers/ServerOutputManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/serverIOManagers/ServerOutputManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/serverIOManagers/XmlManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/lab6/tools/serverIOManagers/XmlManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/6/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/6/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/123.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/123.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/lab7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/lab7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/log4j2.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/log4j2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/logs/app-06-13-2022-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/logs/app-06-13-2022-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/logs/app-06-25-2022-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/logs/app-06-25-2022-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/logs/app-06-26-2022-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/logs/app-06-26-2022-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/logs/app-06-27-2022-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/logs/app-06-27-2022-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/logs/app-08-23-2022-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/logs/app-08-23-2022-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/logs/app-09-13-2022-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/logs/app-09-13-2022-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/logs/app-09-15-2022-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/logs/app-09-15-2022-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/logs/app-09-16-2022-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/logs/app-09-16-2022-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/logs/app-09-18-2022-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/logs/app-09-18-2022-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/logs/app-09-18-2022-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/logs/app-09-18-2022-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/logs/app-09-22-2022-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/logs/app-09-22-2022-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/logs/app-09-22-2022-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/logs/app-09-22-2022-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/logs/app-09-22-2022-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/logs/app-09-22-2022-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/logs/app-09-22-2022-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/logs/app-09-22-2022-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/logs/app-09-22-2022-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/logs/app-09-22-2022-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/logs/app-09-22-2022-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/logs/app-09-22-2022-6.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/logs/app-09-22-2022-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/logs/app-09-22-2022-7.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/out/artifacts/lab6_client_jar/123.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/out/artifacts/lab6_client_jar/123.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/out/artifacts/lab6_client_jar/lab6.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/out/artifacts/lab6_client_jar/lab6.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/out/artifacts/lab6_server_jar/lab6.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/out/artifacts/lab6_server_jar/lab6.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/out/artifacts/lab6_server_jar/log4j2.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/out/artifacts/lab6_server_jar/log4j2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/out/artifacts/lab6_server_jar/testData.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/out/artifacts/lab6_server_jar/testData.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Client/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Client/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Client/ExecuteScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Client/ExecuteScript.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Client/Help.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Client/Help.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Client/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Client/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Client/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Client/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/Clear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/Clear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/CountLessThanGenre.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/CountLessThanGenre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/Exit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/Exit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/FilterStartsWithName.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/FilterStartsWithName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/Help.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/Help.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/History.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/History.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/Info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/MinById.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/MinById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/RemoveById.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/RemoveById.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/RemoveGreater.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/RemoveGreater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/RemoveLower.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/RemoveLower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/Show.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/Show.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/Update.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/commands/Server/Update.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/DataBaseException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/DataBaseException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/ElementWithIdNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/ElementWithIdNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/InvalidArgumentException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/InvalidArgumentException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/InvalidAuthorizationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/InvalidAuthorizationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/InvalidCommandException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/InvalidCommandException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/InvalidConnectException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/InvalidConnectException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/InvalidRequestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/InvalidRequestException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/LessZeroException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/LessZeroException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/LoadCollectionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/LoadCollectionException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/NoItemsAvailableToDeleteException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/NoItemsAvailableToDeleteException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/NullException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/NullException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/NullOrEmptyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/NullOrEmptyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/RecursiveCommandExecutionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/RecursiveCommandExecutionException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/UserNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/excepcions/UserNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/items/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/items/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/items/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/items/Coordinates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/items/MusicBand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/items/MusicBand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/items/MusicGenre.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/items/MusicGenre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/OutputManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/OutputManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/Serializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/Serializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/StopSignal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/StopSignal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/UDPConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/UDPConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/UserData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/UserData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/clientIOManagers/ClientInputManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/clientIOManagers/ClientInputManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/clientIOManagers/ClientOutputManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/clientIOManagers/ClientOutputManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/clientIOManagers/ClientRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/clientIOManagers/ClientRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/clientIOManagers/ShutdownHook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/clientIOManagers/ShutdownHook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/serverIOManagers/DataBaseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/serverIOManagers/DataBaseManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/serverIOManagers/ServerInputManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/serverIOManagers/ServerInputManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/serverIOManagers/ServerOutputManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/serverIOManagers/ServerOutputManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/serverIOManagers/ServerRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/serverIOManagers/ServerRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/serverIOManagers/ShutdownHook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/java/lab6/tools/serverIOManagers/ShutdownHook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Client/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Client/Command.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Client/ExecuteScript.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Client/ExecuteScript.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Client/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Client/Help.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Client/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Client/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Client/Register.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Client/Register.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Command.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/Add.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/Clear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/Clear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/Command.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/CountLessThanGenre.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/CountLessThanGenre.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/Exit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/Exit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/FilterStartsWithName.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/FilterStartsWithName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/Help.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/History.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/History.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/Info.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/Info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/MinById.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/MinById.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/RemoveById.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/RemoveById.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/RemoveGreater.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/RemoveGreater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/RemoveLower.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/RemoveLower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/Show.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/Show.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/Update.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/commands/Server/Update.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/DataBaseException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/DataBaseException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/ElementWithIdNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/ElementWithIdNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/InvalidArgumentException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/InvalidArgumentException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/InvalidAuthorizationException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/InvalidAuthorizationException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/InvalidCommandException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/InvalidCommandException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/InvalidConnectException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/InvalidConnectException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/InvalidRequestException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/InvalidRequestException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/LessZeroException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/LessZeroException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/LoadCollectionException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/LoadCollectionException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/MyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/MyException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/NoItemsAvailableToDeleteException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/NoItemsAvailableToDeleteException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/NullException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/NullException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/NullOrEmptyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/NullOrEmptyException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/RecursiveCommandExecutionException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/RecursiveCommandExecutionException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/UserNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/excepcions/UserNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/items/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/items/Album.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/items/Coordinates.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/items/Coordinates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/items/MusicBand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/items/MusicBand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/items/MusicGenre.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/items/MusicGenre.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/OutputManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/OutputManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/Serializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/Serializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/StopSignal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/StopSignal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/UDPConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/UDPConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/UserData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/UserData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/clientIOManagers/ClientInputManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/clientIOManagers/ClientInputManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/clientIOManagers/ClientOutputManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/clientIOManagers/ClientOutputManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/clientIOManagers/ClientRequest$AuthorizationMode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/clientIOManagers/ClientRequest$AuthorizationMode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/clientIOManagers/ClientRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/clientIOManagers/ClientRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/clientIOManagers/ShutdownHook.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/clientIOManagers/ShutdownHook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/serverIOManagers/DataBaseManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/serverIOManagers/DataBaseManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/serverIOManagers/ServerInputManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/serverIOManagers/ServerInputManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/serverIOManagers/ServerOutputManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/serverIOManagers/ServerOutputManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/serverIOManagers/ServerRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/serverIOManagers/ServerRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/serverIOManagers/ShutdownHook.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/lab6/tools/serverIOManagers/ShutdownHook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/7/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/7/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/test/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/test/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/test/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/test/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/test/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/test/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming/test/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/areas.png" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/areas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/not_stonks.png" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/not_stonks.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/oldMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/oldMain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/server/Area.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/server/Area.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/server/OldMain.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/server/OldMain.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/server/Point.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/server/Point.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/server/ScriptTime.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/server/ScriptTime.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/server/clear.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/server/clear.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/server/load.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/server/load.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/server/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/server/main.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LpEbJzZMRkhJrg9rDKNV2s81l5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/aidar/Downloads/web-lab-2-master&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/js" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JBoss/WildFly 27.0.1.Final" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss/WildFly 27.0.1.Final" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/lab2-1.0-SNAPSHOT" />
+      <deployment>
+        <artifact name="lab2:war exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="SERVER" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" value="main-server-group" />
+        <option name="USERNAME" value="" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="36495" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="lab2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7087ca4a-89ef-48b1-bc43-e1b2915b240a" name="Changes" comment="" />
+      <created>1676559695996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676559695996</updated>
+      <workItem from="1676559697590" duration="5076000" />
+      <workItem from="1676620822577" duration="6177000" />
+      <workItem from="1676627086129" duration="5199000" />
+      <workItem from="1676632327334" duration="617000" />
+      <workItem from="1676632965563" duration="11699000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

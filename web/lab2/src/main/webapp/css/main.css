@@ -1,0 +1,153 @@
+body{
+	background-color: #01384a;
+	color: #fafafa;
+	font-family: 'Consolas', Arial, Helvetica, sans-serif;
+	font-size: medium;
+	margin: 0px;
+}
+
+div{
+	align-items: center;
+	justify-content: center;
+}
+div.page{
+	display: flex;
+	padding: 2px 0px;
+}
+div.page.info{
+	font-size: large;
+	height: 50px;
+}
+
+#area{
+	height: 300px;
+	margin: 0px 55px 55px;
+	cursor: pointer;
+}
+
+.img {
+	position: relative;
+}
+
+.pointHit {
+	position: absolute;
+	width: 5px;
+	height: 5px;
+	background-color: #00ff00;
+	border-radius: 50%;
+}
+
+.pointMiss {
+	position: absolute;
+	width: 5px;
+	height: 5px;
+	background-color: #ff0000;
+	border-radius: 50%;
+}
+
+p{
+	text-align: center;
+}
+p.title{
+	font-size: x-large;
+	margin-block-end: 12px;
+}
+p#r{
+	margin-block-end: 9px;
+}
+
+a{
+	text-decoration: none;
+	color: #f7c909;
+}
+a:hover{ color: rgb(232,95,76); }
+a:active{ color: rgb(152,15,0); }
+
+input{
+	background-color: #5326bd;
+	box-sizing: border-box;
+	padding: 12px 20px;
+	border: 1px solid #01384a;
+	font-size: medium;
+	color:#f7c909;
+	margin: 0px;
+}
+::placeholder {
+	color:#cbd0d5;
+}
+input:focus{
+	border: 2px solid #f7c909;
+}
+input[type=button]{
+	width: 10.4%;
+	height: 70px;
+}
+input[type=text]{
+	width: 100%;
+	height: 70px;
+}
+input[type=checkbox]{
+	width: 25px;
+	height: 25px;
+	margin-top: 25px;
+	margin-bottom: 20px;
+	padding: 15px;
+	accent-color: #f7c909;
+}
+
+.selected{
+	border: 2px solid #f7c909;
+}
+
+label{
+	user-select: none;
+	box-sizing: border-box;
+	padding-top: 30px;
+	padding-bottom: 12px;
+	padding-right: 36.6px;
+	padding-left: 36.6px;
+	background-color: #5326bd;
+	border: 1px solid #01384a;
+	color:#f7c909;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.button{
+	background: #002333;
+	padding: 20px 0px;
+	color: #dddddd;
+	border: 1px solid #000;
+	text-align: center;
+	font-size: 18px;
+	margin: auto;
+	user-select: none;
+}
+
+.button:hover{ background: rgb(232,95,76); }
+.button:active{ background: rgb(152,15,0); }
+
+table {
+	font-size: large;
+	background: #01384a;
+	width: 70%;
+	border-collapse: collapse;
+	text-align: left;
+	border: 5px #000;
+	margin: 25px auto 10px;
+}
+caption{
+	font-size: x-large;
+}
+th {
+	font-weight: normal;
+	color: #fff;
+	border-bottom: 2px solid #000;
+	padding: 10px 8px;
+}
+td {
+	color: #d0d0ff;
+	padding: 9px 8px;
+	transition: .3s linear;
+}
+tr:hover td {color: #00f0f0;}
