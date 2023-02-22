@@ -31,7 +31,7 @@ public class Point {
     private boolean validateY() {
         try {
             y = Double.parseDouble(stringY);
-            if (!(-5 <= y && y <= 3)) {
+            if (!(-5 <= y && y <= 5)) {
                 warning = "неверный диапазон y";
                 return false;
             }
